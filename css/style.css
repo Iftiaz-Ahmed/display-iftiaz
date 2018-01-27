@@ -76,13 +76,13 @@ nav ul li a:hover{
     color: #a5a5a5;
     height: 265px;
 }
-.banner-img {position: absolute;transform: translateY(25%);}
+.banner-img {position: absolute;transform: translate(7%,25%);/* transform:  translateX(-2%); */}
 
 .banner-content {
 }
 .banner-content p{
     padding-bottom: 30px;
-    width:  83%;
+    width: 100%;
 }
 .banner-content a{
     text-transform: uppercase;
